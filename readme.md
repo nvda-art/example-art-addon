@@ -1,0 +1,1 @@
+Example add-on for the NVDA ART (Add-on RunTime) project.
